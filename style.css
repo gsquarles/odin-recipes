@@ -1,0 +1,32 @@
+#Title {
+    text-align: center;
+    background-color: black;
+    color: yellowgreen;
+    font-weight: bold;
+}
+
+.Font {
+    font-size: 22px;
+    background-color: lightgreen;
+}
+
+.Heading {
+    text-align: center;
+    font-weight: bold;
+    background-color: wheat;
+    font-family: Papryus, fantasy;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+h2 {
+    text-decoration-line: underline;
+    font-size: 30px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
